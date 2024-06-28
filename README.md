@@ -1,6 +1,6 @@
 # Flipbook-TurnJs
 
-This project allows users to view PDF files as an interactive flipbook. It leverages `pdfjs-dist` for rendering PDFs, `turn.js` for the flipbook effect.
+This project allows users to view PDF files as an interactive flipbook. It leverages `pdfjs-dist` for rendering PDFs and `turn.js` for the flipbook effect.
 
 ## Features
 
